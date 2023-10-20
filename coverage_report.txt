@@ -1,0 +1,9 @@
+Name               Stmts   Miss  Cover
+--------------------------------------
+database.py           24      0   100%
+test_database.py      46      1    98%
+--------------------------------------
+TOTAL                 70      1    99%
+
+
+# pylint: Your code has been rated at 9.72/10
